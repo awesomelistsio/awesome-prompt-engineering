@@ -1,0 +1,2 @@
+# Normalize line endings and treat all files as UTF-8 text
+* text=auto eol=lf
