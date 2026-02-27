@@ -48,6 +48,7 @@ Prompt engineering is the craft of designing effective prompts to instruct and g
 - **[PromptLayer](https://www.promptlayer.com/)** – Prompt management and version control for LLM prompts.
 - **[Promptfoo](https://promptfoo.dev/)** – Tool for testing, evaluating, and benchmarking prompts.
 - **[Chainlit](https://www.chainlit.io/)** – Open-source framework for developing LLM-powered apps with prompt visibility.
+- **[TubePrompter](https://tubeprompter.com/)** – Free tool for converting video content (YouTube, TikTok, Instagram) into AI-ready prompts for Sora, Midjourney, and other generators.
 
 ## Research & Papers
 
