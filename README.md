@@ -34,6 +34,7 @@ Prompt engineering is the craft of designing effective prompts to instruct and g
 - **[Learn Prompting](https://learnprompting.org/)** – Open-source and beginner-friendly prompt engineering course.
 - **[LangChain Prompt Templates](https://docs.langchain.com/docs/components/prompts/prompt-templates/)** – How to design reusable prompt templates in LangChain.
 - **[FreeCodeCamp – Prompt Engineering Tutorial](https://www.youtube.com/watch?v=qw1uPj9qy3g)** – Hands-on tutorial with examples.
+- **[Learn Agentic Patterns](https://learnagenticpatterns.com/)** – Free interactive curriculum covering 21 agentic AI design patterns with code examples, architecture diagrams, and interactive decision-making games.
 
 ## Prompt Libraries
 
