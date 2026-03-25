@@ -48,6 +48,7 @@ Prompt engineering is the craft of designing effective prompts to instruct and g
 - **[PromptLayer](https://www.promptlayer.com/)** – Prompt management and version control for LLM prompts.
 - **[Promptfoo](https://promptfoo.dev/)** – Tool for testing, evaluating, and benchmarking prompts.
 - **[Chainlit](https://www.chainlit.io/)** – Open-source framework for developing LLM-powered apps with prompt visibility.
+- **[flompt](https://github.com/Nyrok/flompt)** – Visual prompt builder that decomposes prompts into 12 semantic blocks and compiles them into Claude-optimized XML. Available as a web app, browser extension (Chrome/Firefox), and MCP server.
 
 ## Research & Papers
 
