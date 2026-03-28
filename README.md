@@ -61,6 +61,7 @@ Prompt engineering is the craft of designing effective prompts to instruct and g
 - **[r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/)** – Subreddit for local LLM development and prompting.
 - **[Prompt Engineering Daily](https://promptengineeringdaily.com/)** – Newsletter with tips and prompt ideas.
 - **[Hugging Face Forum](https://discuss.huggingface.co/)** – Discussion and sharing around model fine-tuning and prompts.
+- **[Alex Chernysh's AI Engineering Blog](https://alexchernysh.com/blog)** – Hands-on posts on prompt engineering, LLM safety, RAG systems, and building reliable AI agents.
 
 ## Applications & Use Cases
 
