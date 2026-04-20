@@ -44,6 +44,7 @@ Prompt engineering is the craft of designing effective prompts to instruct and g
 
 ## Prompt Engineering Tools
 
+- **[AceTagGen](https://acetaggen.com)** – Prompt builder specifically for Suno AI music generation. 12-step structured questionnaire, 3,000+ community-verified tags, quality-score validator. Open-source scorer on npm ([suno-prompt-scorer](https://www.npmjs.com/package/suno-prompt-scorer), MIT).
 - **[LangChain](https://www.langchain.com/)** – Framework for developing applications using LLMs with advanced prompt orchestration.
 - **[PromptLayer](https://www.promptlayer.com/)** – Prompt management and version control for LLM prompts.
 - **[Promptfoo](https://promptfoo.dev/)** – Tool for testing, evaluating, and benchmarking prompts.
