@@ -49,6 +49,7 @@ Prompt engineering is the craft of designing effective prompts to instruct and g
 - **[Promptfoo](https://promptfoo.dev/)** – Tool for testing, evaluating, and benchmarking prompts.
 - **[Chainlit](https://www.chainlit.io/)** – Open-source framework for developing LLM-powered apps with prompt visibility.
 - **[flompt](https://github.com/Nyrok/flompt)** – Open source visual prompt builder that decomposes prompts into semantic blocks and compiles them into structured formats.
+- **[promptlint-mcp](https://github.com/sean-sunagaku/promptlint-mcp)** – Static linter for AI prompts. Catches contradictions, redundancy, ambiguity, long examples, and politeness fluff. CLI + MCP server. Zero network, MIT.
 
 ## Research & Papers
 
