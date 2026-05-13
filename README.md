@@ -48,6 +48,7 @@ Prompt engineering is the craft of designing effective prompts to instruct and g
 - **[PromptLayer](https://www.promptlayer.com/)** – Prompt management and version control for LLM prompts.
 - **[Promptfoo](https://promptfoo.dev/)** – Tool for testing, evaluating, and benchmarking prompts.
 - **[Chainlit](https://www.chainlit.io/)** – Open-source framework for developing LLM-powered apps with prompt visibility.
+- **[agent-opt](https://github.com/future-agi/agent-opt)** – Open-source library for automated optimization of AI agent workflows. Evaluation-driven prompt and config tuning.
 - **[flompt](https://github.com/Nyrok/flompt)** – Open source visual prompt builder that decomposes prompts into semantic blocks and compiles them into structured formats.
 
 ## Research & Papers
